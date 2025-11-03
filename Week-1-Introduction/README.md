@@ -12,15 +12,15 @@ This week was an introduction to a few things. First of all, I looked into NumPy
 
 ## Code
 
-- [Week 1 Code](Week-1-Introduction/Week1.ipynb)
-- [NumPy](Week-1-Introduction/NumPy.ipynb)
-- [Pandas](Week-1-Introduction/Pandas.ipynb)
-- [Matplotlib](Week-1-Introduction/Matplotlib.ipynb)
+- [Week 1 Code](Week-1-Introduction/Week1-Code.ipynb)
+- [NumPy](Week-1-Introduction/extras/NumPy-intro.ipynb)
+- [Pandas](Week-1-Introduction/extras/Pandas-intro.ipynb)
+- [Matplotlib](Week-1-Introduction/extras/Matplotlib-intro.ipynb)
 
 ## Handwritten Notes
 
-- [Week 1 Handwritten Notes](Week-1-Introduction/Handwritten-Notes/Week-1-Introduction.pdf)
+- [Week 1 Handwritten Notes](Week-1-Introduction/handwritten-notes/ML-Journey-Week-1.pdf)
 
 ## Typed Up Notes
 
-- [Week 1 Typed Up Notes](Week-1-Introduction/Typed-Up-Notes/Week-1-Introduction.pdf)
+- [Week 1 Typed Up Notes](Week-1-Introduction/Week-1-Notes.pdf)
