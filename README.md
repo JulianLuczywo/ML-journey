@@ -8,6 +8,10 @@ Both hand-written and typed up notes will be in PDF format.
 
 Journey:
 
-[x] Week 1: Introduction to Machine Learning
+[ x ] Week 1: Introduction to Machine Learning
+
+[ x ] Week 2: Scikit-Learn and Logistic Regression and Support Vector Machines
 
 Socials:
+
+[Twitter](https://twitter.com/JulianLuczywo)
