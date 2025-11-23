@@ -6,11 +6,13 @@ Each week will have the resources that I used to study that week and also all th
 
 Both hand-written and typed up notes will be in PDF format.
 
+Sometimes typed up notes can differ from week to week due to improvements in my understanding or updates to the material. Please be aware of that and check my commit history for any changes.
+
 Journey:
 
-[ x ] Week 1: Introduction to Machine Learning
+[x] Week 1: Introduction to Machine Learning
 
-[ x ] Week 2: Scikit-Learn and Logistic Regression and Support Vector Machines
+[x] Week 2: Scikit-Learn and Logistic Regression and Support Vector Machines
 
 Socials:
 
