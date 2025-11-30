@@ -10,9 +10,13 @@ Sometimes typed up notes can differ from week to week due to improvements in my 
 
 Journey:
 
-[x] Week 1: Introduction to Machine Learning
+- [x] Week 1: Introduction to Machine Learning
 
-[x] Week 2: Scikit-Learn and Logistic Regression and Support Vector Machines
+- [x] Week 2: Scikit-Learn and Logistic Regression and Support Vector Machines
+
+- [x] Week 3: Decision Trees/Random Forests and K-Nearest Neighbors
+
+- [x] Week 4: Data Preprocessing
 
 Socials:
 
