@@ -18,6 +18,8 @@ Journey:
 
 - [x] Week 4: Data Preprocessing
 
+- [x] Week 5: Data Compression and Dimensionality Reduction
+
 Socials:
 
 [Twitter](https://twitter.com/JulianLuczywo)
